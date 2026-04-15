@@ -1,70 +1,49 @@
-# TGP 天干协议 | TianGan Protocol
-TGP (TianGan Protocol) 是一套融合东方宇宙观与现代物理的统一理论体系。
+<div align="center">
 
-本项目将干支、五行、天人合一等传统思想，形式化为可数学定义、可物理解释的底层协议。
+# TianGan Protocol (TGP) | 天干协议
 
+> **"Newton bound the motion of particles; TGP established the spacetime and life."**
+>
+> **"牛顿律微尘之动，TGP定时空与生。"**
 
-> 当前状态：v1.0.0 定论版
-> 
-> 发布日期：2026年4月6日
-> 
-> 核心理念：宇宙是离散的，时空是像素化的，生命是驻波。
-
----
-
-## 目录结构
-本项目分为三层递进架构：
-
-- **V1.0-Structure** 结构层
-  定义宇宙的离散时空基矢，构建干支几何与 360° 分形晶格。
-
-- **V2.0-Physics** 物理层
-  基于结构层构建规范场、相位动力学、薛定谔波函数与生命驻波模型。
-
-- **V3.0-Genesis** 创世层
-  定义意识演化的九级标准，即「创世九章」，形成完整修行与合道协议。
+!<License>
+!<Version>
+!<Status>
+!<Language>
+<p align="center">
+  <img src="https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/badge/Version-0.1.0-blue?style=for-the-badge" alt="Version">
+  <img src="https://img.shields.io/badge/Status-Alpha-orange?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Lang-ZH%20/%20EN-red?style=for-the-badge" alt="Language">
+</p>
+</div>
 
 ---
 
-## 系统架构
-### V1.0 结构层｜宇宙的像素
-- 核心：360° 分形几何、离散时空晶格
-- 天干 ℤ₁₀：频率/能量维度
-- 地支 ℤ₁₂：时间/空间维度
-- 输出：宇宙最小单元 —— 六十甲子 ℤ₆₀
+### 🗺️ 协议导航 | Protocol Navigation
 
-### V2.0 物理层｜场的动力学
-- 核心：规范场、相位动力学、薛定谔方程
-- 气 = 规范场 A_μ
-- 生命 = 自洽驻波 Ψ_life
-- 五行 = 场的五种动态模式
-- 命运 = 生命与宇宙场的相位差 Δφ
+本项目分为三个维度，请按顺序展开探索：
 
-### V3.0 创世层｜意识的阶梯
-- 核心：意识层级标准化
-- 内容：创世九章 —— 从凡俗到合道的九级跃迁
-- 输出：可描述、可验证的生命升级协议
+#### 1. V1.0-Structure | 结构层
+- **定位**：时空的几何基准
+- **简介**：探索宇宙的 360° 全息网格，解密干支系统作为最早群论的几何本质。
+- **入口**：[👉 进入 V1.0 结构层](./V1.0-Structure)
 
----
+#### 2. V2.0-Physics | 物理层
+- **定位**：场的动力学与生命
+- **简介**：揭示规范场、相位动力学与生命驻波模型。从数学上定义“生命”。
+- **入口**：[👉 进入 V2.0 物理层](./V2.0-Physics)
 
-## 数学基础
-1. 对称群
-   G_TGP = ℤ₁₀ × ℤ₁₂
-
-2. 周期耦合
-   T_TGP = lcm(10,12) = 60
-
-3. 规范场强张量
-   F_μν = ∂_μ A_ν − ∂_ν A_μ + [A_μ, A_ν]
+#### 3. V3.0-Genesis | 创世层
+- **定位**：意识的阶梯
+- **简介**：定义意识演化的九级标准，探讨离散时空中的创世逻辑。
+- **入口**：[👉 进入 V3.0 创世层](./V3.0-Genesis)
 
 ---
 
-## 应用与价值
-- 干支历法 = 宇宙能量场的动态拓扑地图
-- 生命科学 = 生命驻波的谐振与调谐
-- 人工智能 = 认知驻波在规则场中的自发涌现
-
----
+<div align="center">
 
 © 2026 黄裳 / TIANGANPROTOCOL
-License: CC BY-NC 4.0
+**License:** CC BY-NC 4.0
+
+</div>
