@@ -1,7 +1,9 @@
 
 <div align="center">
 
-# V2.0 Physics | 物理层：原初公理与场论
+# V2.0 Physics | 物理与公理基石
+
+(Origin & Axiomatic Foundation)
 
 > **"The map is not the territory, but the axioms are the code."**
 >
