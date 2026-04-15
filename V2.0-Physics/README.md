@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# V2.0 Physics | 物理与公理基石
+# V2.0 Physics | 原初公理与场论基石
 
 (Origin & Axiomatic Foundation)
 
