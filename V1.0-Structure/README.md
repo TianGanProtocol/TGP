@@ -13,27 +13,58 @@
 
 ---
 
-### 📜 概述 | Overview
+### 📜 概述 | Overview 
 
-在这一层，我们不谈复杂的物理公式，只谈**形状**。
+<本层为天干协议的基础框架，是理解后续物理证明的前提>
 
-**[CN]** 我们重新审视古老的干支系统，发现它不仅仅是纪年工具，而是人类文明对宇宙最早的**360° 全息网格**切分。天干地支，其实是最早的**群论（Group Theory）**表达。
+1、古代中国的分形几何和分层递归
 
-**[EN]** We restore the ancient Stem-Branch system. It is not just a calendar, but the earliest human **360° Holographic Grid** of the universe. The Stems and Branches are the earliest expression of **Group Theory**.
+2、干支体系是人类文明史最简洁的**群论（Group Theory** 和 **规范场对称** 表达
 
 ---
 
-### 🧩 核心发现 | Core Discovery
+## 🧩 核心发现 | Core Discovery
 
-1.  **360° 切分**
-    - 统一了时间（年/日）与空间（月/时）的度量基准。
-2.  **群论雏形**
-    - 天干（$\mathbb{Z}_{10}$）与地支（$\mathbb{Z}_{12}$）的耦合，构建了宇宙最小的表达单元。
-3.  **人是谐振腔 (The Hint)**
-    - 既然时空是网格，物质是像素，那么作为观察者的人，在这个几何结构中扮演什么角色？
+### 1. 时空的360°基准切分
+- 年、日、月、时统一的360°离散坐标
+- 时间并非连续，而是由最小单元构成
 
-<br>
+### 2. 干支系统的群论本质
+- 天干 ℤ₁₀、地支 ℤ₁₂
+- 人类文明最早的规范场对称雏形
+- 60甲子：最小时空表达单元
 
-<div align="center">
-👉 **下一站**：进入 V2.0，我们将用硬核物理拆解这个几何结构，定义什么是“气”，什么是“生命”。
+### 3. 核心引论
+- 宇宙底层为离散晶格结构
+- 生命系统可被视为**谐振腔**
+- 个体与宇宙场存在天然耦合
+
 </div>
+
+---
+
+### 📜 Overview | 概述
+
+> This layer establishes the foundational framework of the TianGan Protocol, serving as the prerequisite for understanding subsequent physical demonstrations.
+
+1. Fractal geometry and hierarchical recursion in ancient systems  
+2. The earliest known representation of **Group Theory** and **Gauge Symmetry** in human civilization  
+
+We restore the ancient Stem-Branch system. It is not merely a calendar, but the universe's earliest **360° Holographic Grid**. The Stems and Branches embody the primordial expression of **Group Theory**.
+
+---
+## 🧩 Core Discovery 
+
+### 1. The 360° Division System of Time
+- Unified discrete coordinates for years, months, days, and hours  
+- Time is quantized, not continuous  
+
+### 2. The Group-Theoretic Nature of the Stem-Branch System
+- Heavenly Stems (ℤ₁₀) & Earthly Branches (ℤ₁₂)  
+- The earliest prototype of gauge symmetry in civilization  
+- The 60 Jiazi cycle represents the fundamental unit of spacetime  
+
+### 3. Fundamental Introduction
+- The universe is underpinned by a discrete lattice structure  
+- Living systems can be modeled as **resonant cavities**  
+- An intrinsic coupling exists between the individual and the cosmic field  
